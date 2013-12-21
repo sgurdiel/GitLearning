@@ -7,3 +7,4 @@ echo "This is feature C";
 New local branch develop by Dev0 
 Test #1
 Test #2
+New local branch develop2 by Dev0
