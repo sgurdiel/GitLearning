@@ -1,2 +1,4 @@
 <?php
-echo "Working on feature C";
+echo "This is feature A";
+echo "This is feature B";
+echo "This is feature C";
