@@ -3,6 +3,7 @@ echo "This is feature A";
 echo "This is feature B";
 echo "This is feature C";
 
+echo "This is feature D by Dev1";
 ?>
 New local branch develop by Dev0 
 Test #1
