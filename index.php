@@ -21,4 +21,6 @@ Added feature F
 
 Added feature G
 
+Added feature H
+
 Feature I
