@@ -12,3 +12,5 @@ New local branch develop2 by Dev0
 New local branch develop1 by Dev0
 
 Worked on issue #54
+
+Worked on issue #56
